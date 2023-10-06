@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.jexcoder.com
+
+# Sitemaps
+Sitemap: https://www.jexcoder.com/sitemap.xml
