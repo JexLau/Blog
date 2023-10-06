@@ -1,0 +1,14 @@
+{
+  "index": {
+    "title": "Blog",
+    "type": "page"
+  },
+  "tools": {
+    "title": "Tools",
+    "type": "page"
+  },
+  "about": {
+    "title": "About",
+    "type": "page"
+  }
+}
