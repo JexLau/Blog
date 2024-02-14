@@ -2,7 +2,7 @@ import type { Socials } from "./types";
 
 export const SITE_URL = "https://jexcoder.com"; // Replace with your site url
 export const SITE_TITLE = "Jex";
-export const SITE_DESCRIPTION = "Something Records for Jex";
+export const SITE_DESCRIPTION = "Records for Life";
 export const SITE_LOGO = "/logo.svg";
 
 export const SOCIALS: Socials = [
